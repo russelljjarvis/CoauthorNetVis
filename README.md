@@ -4,3 +4,5 @@ CoauthorNetVis
 
 [![DOI](https://zenodo.org/badge/340018407.svg)](https://zenodo.org/badge/latestdoi/340018407)
 
+Plotly chord Diagram thanks to @rmarren1
+
