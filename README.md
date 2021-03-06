@@ -1,5 +1,4 @@
-# CoauthorNetVis
-Coauthor Network Visualisation.
+# Coauthor Network Visualisation.
 
 [Live version of application](https://calm-dusk-34444.herokuapp.com/)
 
